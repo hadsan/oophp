@@ -1,1 +1,1 @@
-Copyright år och ditt namn samt diverse länkar som du finner relevanta.
+Copyright © 2020 Hadsan Hassan, [oophp](https://dbwebb.se/kurser/oophp-v5/)

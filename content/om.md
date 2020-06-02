@@ -4,7 +4,7 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-kursrepo
 
@@ -12,17 +12,13 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-redovisa
 ---
 Om
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
+<b>Objektorienterade webbteknologier</b>, förkortat oophp, omfattar 7.5 hp. Kursen lägger fokuset på objektorienterad PHP samt utvecklingen av webbapplikationer med hjälp av ett webbbaserat ramverk intergrerat med Apahe, PHP, HTML, CSS och SQL. Kursen täcker även enhetstesting samt användningen av verktyg lämpliga för utvecklingen av webbapplikationer så som Workbench och PHPAdmin.
 
-Skriv några kloka ord om kursen?
-
-Lägg till en fin och representativ bild för kursen, enligt ditt eget val.
-
-[FIGURE src=image/car.png?w=740&filter=grayscale&f1=colorize,0,30,0,0 caption="En fin bil som demobild, lite oklart hur den är representativ, men ändå..."]
+[FIGURE src=image/prog-pic.jpg?w=600&filter=grayscale&f1=colorize,0,30,0,0]

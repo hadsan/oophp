@@ -20,7 +20,7 @@ return [
             "lang" => "sv",
             "stylesheets" => [
                 // Change here to set another default stylesheet
-                "css/dbwebb-se.min.css",
+                "css/style.css",
                 //"css/another.min.css",
             ],
             "javascripts" => [
@@ -36,8 +36,8 @@ return [
             "template" => "anax/v2/header/site_logo",
             "data" => [
                 "class" => "large",
-                "siteLogo"      => "image/theme/leaf_256x256.png",
-                "siteLogoAlt"   => "Löv",
+                "siteLogo"      => "",
+                "siteLogoAlt"   => "",
             ],
         ],
         [
