@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light+Two&display=swap');  /* Importing font */
+
+@import "dbwebb-se.min.css"; /* Importing css using a string */
+
+a, a:hover {
+    color: #3F541E;
+}
+
+.inner-wrap-main .row {
+    color: #343434;
+    background-color: #F5F9EE;
+    width: 100%;
+    margin-top: 3em;
+    padding: 2em;
+    min-height: 30em;
+}
+
+.rm-desktop li a, .rm-desktop li a:hover {
+font-family: 'Shadows Into Light Two', cursive;
+color: #3F541E;
+}
+
+.site-logo-text a {
+font-family: 'Shadows Into Light Two', cursive;
+color: #669816;
+}
+
+.site-logo-text a:hover {
+    text-shadow: none;
+    color: #3F541E;
+}
+
+.region-header-col-1 {
+    margin-top: .52083333%;
+    margin-bottom: 1.52083333%;
+
+}
+
+.outer-wrap-footer{
+    background-color: #EFEFEF;
+}
+
+.outer-wrap-footer p,
+.outer-wrap-footer h4 {
+    color: #7c7c7c;
+}
+
+.site-footer p {
+    color: #a1a1a1;
+}
+
+figure.figure.right {
+    margin-left: 1.5em;
+}
